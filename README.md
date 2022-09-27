@@ -18,8 +18,10 @@
     
    <hr>
     
-   <button class="btn btn-success" onclick=" window.open('https://www.howtoit.wiki','_blank')"> HowToIT Wiki</button>
+   <button class="btn btn-success" onclick=" window.open('https://www.howtoit.wiki','_blank')"> HowToIT Wiki</button> 
+  <br>
    <button class="btn btn-success" onclick=" window.open('https://www.youtube.com/channel/UCUzFtzmd4sLHOVTDylEoygQ','_blank')"> HowToIT YouTube</button>
+  <br>
     
     
    <p><b>Support</b></p>
