@@ -1,9 +1,9 @@
 <html>
   <head>
-    <h1 style="background-color:rgb(51, 255, 255);">...</h1>
+    <!-<h1 style="background-color:rgb(51, 255, 255);">...</h1>->
     <title>Title of the document</title>
   </head>
-  <body>
+  <body style="background-color:rgb(51, 255, 255);">>
     <p><b>GitHub Projects</b></p>
    <hr>
    <button class="btn btn-success" onclick=" window.open('https://github.com/LoadingStill/Linux')','_blank')"> Linux </button>
