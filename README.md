@@ -4,11 +4,11 @@
     <title>Title of the document</title>
   </head>
   <body>
-    <p><b>GitHub Projects</b></p>
+   <p><b>GitHub Projects</b></p>
     
-    <hr>
+   <hr>
     
-    <button class="btn btn-success" onclick=" window.open('https://github.com/LoadingStill/Linux')','_blank')"> Linux </button>
+   <button class="btn btn-success" onclick=" window.open('https://github.com/LoadingStill/Linux')','_blank')"> Linux </button>
     
     
     
