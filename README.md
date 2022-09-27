@@ -12,17 +12,17 @@
     
     
     
-    <p><b>Websites</b></p>
+   <p><b>Websites</b></p>
     
-    <hr>
+   <hr>
     
    <button class="btn btn-success" onclick=" window.open('https://www.howtoit.wiki','_blank')"> HowToIT Wiki</button>
    <button class="btn btn-success" onclick=" window.open('https://www.youtube.com/channel/UCUzFtzmd4sLHOVTDylEoygQ','_blank')"> HowToIT YouTube</button>
     
     
-    <p><b>Support</b></p>
+   <p><b>Support</b></p>
     
-    <hr>
+   <hr>
     
    <button class="btn btn-success" onclick=" window.open('https://www.howtoit.shop','_blank')"> HowToIT Shop</button>
   </body>
